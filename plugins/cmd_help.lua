@@ -194,7 +194,7 @@ return [[
     🛠 ┇ تنصـيب سـورس آلزعيم آلجديد 🔎
 
 📮 كود التنصيب 
-git clone https://github.com/TH3JOKER24/TH3JOKER.git;cd TH3JOKER;chmod +x ins;./ins
+git clone https://github.com/TH3JOKER24/DVEJOKER.git;cd DVEJOKER;chmod +x ins;./ins
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 📋┇من يخلص التنصيب يطلب منك التوكن
 ⌨️┇تحطه وتضغط Enter 
@@ -202,7 +202,7 @@ git clone https://github.com/TH3JOKER24/TH3JOKER.git;cd TH3JOKER;chmod +x ins;./
 ⌨️┇تحطه وتضغط Enter 
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 ↙️┇الرن
-./TH3JOKER/run
+./DVEJOKER/run
 ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ ┉ 
 ✨┇ومبروك نصبت سورس الجوكر،
 ☑️┇تيجي الجديد ع التوكن
